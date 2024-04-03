@@ -55,28 +55,53 @@ namespace LegacyApp
         }
         private void AssignCreditLimit(Client client, User user)
         {
-            if (client.Type == "VeryImportantClient")
+            // convert from string ClientType 
+            var clientType = DetermineClientType(client);
+            
+            switch (clientType)
             {
-                user.HasCreditLimit = false;
-            }
-            else if (client.Type == "ImportantClient")
-            {
-                using (var userCreditService = new UserCreditService())
-                {
-                    int creditLimit = userCreditService.GetCreditLimit(user.LastName, user.DateOfBirth);
-                    creditLimit = creditLimit * 2;
-                    user.CreditLimit = creditLimit;
-                }
-            }
-            else
-            {
-                user.HasCreditLimit = true;
-                using (var userCreditService = new UserCreditService())
-                {
-                    int creditLimit = userCreditService.GetCreditLimit(user.LastName, user.DateOfBirth);
-                    user.CreditLimit = creditLimit;
-                }
+                case ClientType.VeryImportant:
+                    user.HasCreditLimit = false;
+                    break;
+
+                case ClientType.Important:
+                    SetCreditLimit(user, factor: 2);
+                    break;
+
+                default: // Standard
+                    SetCreditLimit(user, factor: 1);
+                    break;
             }
         }
+        private enum ClientType
+        {
+            Standard,
+            Important,
+            VeryImportant
+        }
+        private ClientType DetermineClientType(Client client)
+        {
+            switch (client.Type)
+            {
+                case "VeryImportantClient":
+                    return ClientType.VeryImportant;
+                case "ImportantClient":
+                    return ClientType.Important;
+                default:
+                    return ClientType.Standard;
+            }
+        }
+        
+        private void SetCreditLimit(User user, int factor)
+        {
+            using (var userCreditService = new UserCreditService())
+            {
+                int creditLimit = userCreditService.GetCreditLimit(user.LastName, user.DateOfBirth);
+                user.CreditLimit = creditLimit * factor;
+            }
+            user.HasCreditLimit = true;
+        }
+
+
     }
 }

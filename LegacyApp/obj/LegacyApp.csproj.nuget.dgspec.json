@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kirill\\OneDrive\\Рабочий стол\\zadanie_solution\\LegacyApp\\LegacyApp.csproj": {}
+    "D:\\progr\\унки\\task4\\LegacyApp\\LegacyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kirill\\OneDrive\\Рабочий стол\\zadanie_solution\\LegacyApp\\LegacyApp.csproj": {
+    "D:\\progr\\унки\\task4\\LegacyApp\\LegacyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kirill\\OneDrive\\Рабочий стол\\zadanie_solution\\LegacyApp\\LegacyApp.csproj",
+        "projectUniqueName": "D:\\progr\\унки\\task4\\LegacyApp\\LegacyApp.csproj",
         "projectName": "LegacyApp",
-        "projectPath": "C:\\Users\\Kirill\\OneDrive\\Рабочий стол\\zadanie_solution\\LegacyApp\\LegacyApp.csproj",
+        "projectPath": "D:\\progr\\унки\\task4\\LegacyApp\\LegacyApp.csproj",
         "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kirill\\OneDrive\\Рабочий стол\\zadanie_solution\\LegacyApp\\obj\\",
+        "outputPath": "D:\\progr\\унки\\task4\\LegacyApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",

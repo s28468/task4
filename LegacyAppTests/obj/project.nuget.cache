@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3qjQH0zljGzfDqPOwM7SxuvEyZJeVRjVkCk9/Tap3oxebROgqjIpi7sUs7EcygPapv7QqFlwNnLvNnIADQT4pg==",
+  "dgSpecHash": "W97ZvjR+fQmIaScGuadcPE7LqR6p2/Q+2xWF+6FqyVQRhItEJTD78uH1gnM7MAzj3hnF8hVwjauJfIh9dWsvNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kirill\\OneDrive\\Рабочий стол\\zadanie_solution\\LegacyAppTests\\LegacyAppTests.csproj",
+  "projectFilePath": "D:\\progr\\унки\\task4\\LegacyAppTests\\LegacyAppTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kirill\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

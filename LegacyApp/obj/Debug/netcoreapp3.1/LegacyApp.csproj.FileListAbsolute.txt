@@ -18,3 +18,13 @@ C:\Users\Kirill\OneDrive\Рабочий стол\zadanie_solution\LegacyApp\obj\
 C:\Users\Kirill\OneDrive\Рабочий стол\zadanie_solution\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.csproj.CoreCompileInputs.cache
 C:\Users\Kirill\OneDrive\Рабочий стол\zadanie_solution\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.dll
 C:\Users\Kirill\OneDrive\Рабочий стол\zadanie_solution\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.pdb
+D:\progr\унки\task4\LegacyApp\bin\Debug\netcoreapp3.1\LegacyApp.deps.json
+D:\progr\унки\task4\LegacyApp\bin\Debug\netcoreapp3.1\LegacyApp.dll
+D:\progr\унки\task4\LegacyApp\bin\Debug\netcoreapp3.1\LegacyApp.pdb
+D:\progr\унки\task4\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.csproj.AssemblyReference.cache
+D:\progr\унки\task4\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\progr\унки\task4\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.AssemblyInfoInputs.cache
+D:\progr\унки\task4\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.AssemblyInfo.cs
+D:\progr\унки\task4\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.csproj.CoreCompileInputs.cache
+D:\progr\унки\task4\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.dll
+D:\progr\унки\task4\LegacyApp\obj\Debug\netcoreapp3.1\LegacyApp.pdb

@@ -5539,11 +5539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kirill\\OneDrive\\Рабочий стол\\zadanie_solution\\LegacyAppTests\\LegacyAppTests.csproj",
+      "projectUniqueName": "D:\\progr\\унки\\task4\\LegacyAppTests\\LegacyAppTests.csproj",
       "projectName": "LegacyAppTests",
-      "projectPath": "C:\\Users\\Kirill\\OneDrive\\Рабочий стол\\zadanie_solution\\LegacyAppTests\\LegacyAppTests.csproj",
+      "projectPath": "D:\\progr\\унки\\task4\\LegacyAppTests\\LegacyAppTests.csproj",
       "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kirill\\OneDrive\\Рабочий стол\\zadanie_solution\\LegacyAppTests\\obj\\",
+      "outputPath": "D:\\progr\\унки\\task4\\LegacyAppTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5560,8 +5560,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Kirill\\OneDrive\\Рабочий стол\\zadanie_solution\\LegacyApp\\LegacyApp.csproj": {
-              "projectPath": "C:\\Users\\Kirill\\OneDrive\\Рабочий стол\\zadanie_solution\\LegacyApp\\LegacyApp.csproj"
+            "D:\\progr\\унки\\task4\\LegacyApp\\LegacyApp.csproj": {
+              "projectPath": "D:\\progr\\унки\\task4\\LegacyApp\\LegacyApp.csproj"
             }
           }
         }

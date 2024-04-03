@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zvrbLYQbqO3N5h0EAmvHF2u3eaXvW5FYUrJqJuw3sp2vCt9+3bmH8kEk52AYtjNTYur7YDNmVXi/lwn8lvhriw==",
+  "dgSpecHash": "Qb0b/RAt758iSz3lp2z4w9UEWIJChT66wqCcLNxMhcsADQNTjVr6ZMSCxtXJZVmXCYYfs3+NiQ9gHyLD67Mztw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kirill\\OneDrive\\Рабочий стол\\zadanie_solution\\LegacyApp\\LegacyApp.csproj",
+  "projectFilePath": "D:\\progr\\унки\\task4\\LegacyApp\\LegacyApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",

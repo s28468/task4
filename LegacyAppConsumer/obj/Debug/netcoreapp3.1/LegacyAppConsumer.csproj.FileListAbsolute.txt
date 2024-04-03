@@ -33,3 +33,20 @@ C:\Users\Kirill\OneDrive\Рабочий стол\zadanie_solution\LegacyAppConsu
 C:\Users\Kirill\OneDrive\Рабочий стол\zadanie_solution\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.dll
 C:\Users\Kirill\OneDrive\Рабочий стол\zadanie_solution\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.pdb
 C:\Users\Kirill\OneDrive\Рабочий стол\zadanie_solution\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.genruntimeconfig.cache
+D:\progr\унки\task4\LegacyAppConsumer\bin\Debug\netcoreapp3.1\LegacyAppConsumer.exe
+D:\progr\унки\task4\LegacyAppConsumer\bin\Debug\netcoreapp3.1\LegacyAppConsumer.deps.json
+D:\progr\унки\task4\LegacyAppConsumer\bin\Debug\netcoreapp3.1\LegacyAppConsumer.runtimeconfig.json
+D:\progr\унки\task4\LegacyAppConsumer\bin\Debug\netcoreapp3.1\LegacyAppConsumer.runtimeconfig.dev.json
+D:\progr\унки\task4\LegacyAppConsumer\bin\Debug\netcoreapp3.1\LegacyAppConsumer.dll
+D:\progr\унки\task4\LegacyAppConsumer\bin\Debug\netcoreapp3.1\LegacyAppConsumer.pdb
+D:\progr\унки\task4\LegacyAppConsumer\bin\Debug\netcoreapp3.1\LegacyApp.dll
+D:\progr\унки\task4\LegacyAppConsumer\bin\Debug\netcoreapp3.1\LegacyApp.pdb
+D:\progr\унки\task4\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.csproj.AssemblyReference.cache
+D:\progr\унки\task4\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\progr\унки\task4\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.AssemblyInfoInputs.cache
+D:\progr\унки\task4\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.AssemblyInfo.cs
+D:\progr\унки\task4\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.csproj.CoreCompileInputs.cache
+D:\progr\унки\task4\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.csproj.CopyComplete
+D:\progr\унки\task4\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.dll
+D:\progr\унки\task4\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.pdb
+D:\progr\унки\task4\LegacyAppConsumer\obj\Debug\netcoreapp3.1\LegacyAppConsumer.genruntimeconfig.cache
